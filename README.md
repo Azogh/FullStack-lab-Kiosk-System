@@ -3,7 +3,7 @@
 
 ## Descrição
 
-O projeto "Pastelaria" é uma aplicação web desenvolvida para a disciplina de Programação Web do curso de Sistemas de Informação. A ideia do projeto é simular um cenário de shopping onde os usuários podem fazer pedidos em uma pastelaria utilizando tokens distribuídos pelo shopping. A pastelaria recebe o pedido e notifica o cliente, que apenas precisa se dirigir à praça de alimentação para pegar o pedido, funcionando de forma similar a um serviço de delivery.
+O projeto "Pastelaria" é uma aplicação web desenvolvida para a disciplina de Programação Web do curso de Sistemas de Informação. A ideia do projeto é simular um cenário de shopping onde os usuários podem fazer pedidos em uma pastelaria utilizando Totens distribuídos pelo shopping. A pastelaria recebe o pedido e notifica o cliente, que apenas precisa se dirigir à praça de alimentação para pegar o pedido, funcionando de forma similar a um serviço de delivery.
 
 ## Funcionalidades
 
